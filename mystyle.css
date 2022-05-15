@@ -1,0 +1,102 @@
+.drittel{
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+.bar {
+    height: 140px;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.animation {
+    height: 100px;
+    width: 100px;
+    }
+
+.titel {
+    width: 80%;
+    float: left;
+}
+
+.header {
+    height: 100px;
+}
+
+.error {
+    border: solid 2px red;
+}
+
+.Infos {
+    height: 50px;
+    color: transparent;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=text], input[type=date], input[type=time], input[type=number]{
+    width: 33%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+button[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+  }
+  
+  button[type=submit]:hover {
+    background-color: #45a049;
+  }
+
+  .error{
+      border: 3px solid red !important;
+    }
+
+#InsiderPub{
+    background-image: url('insider.jpeg') !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+#P2{
+    background-image: url('p2.jpeg') !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+#BritanniaPub{
+    background-image: url('britannia.png') !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+#Scala{
+    background-image: url('scala.jpeg') !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+
+}
+
+#Pub118{
+    background-image: url('cheers-mug.png') !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
